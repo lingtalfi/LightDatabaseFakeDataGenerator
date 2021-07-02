@@ -49,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [LightDatabaseFakeDataMakerService::setOptions](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/Service/LightDatabaseFakeDataMakerService.php#L64-L67)
+See the source code for method [LightDatabaseFakeDataMakerService::setOptions](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/Service/LightDatabaseFakeDataMakerService.php#L65-L68)
 
 
 See Also

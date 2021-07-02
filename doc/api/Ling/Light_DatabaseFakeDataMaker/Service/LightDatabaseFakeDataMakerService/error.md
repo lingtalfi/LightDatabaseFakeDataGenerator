@@ -54,7 +54,7 @@ Exceptions thrown
 
 Source Code
 ===========
-See the source code for method [LightDatabaseFakeDataMakerService::error](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/Service/LightDatabaseFakeDataMakerService.php#L195-L198)
+See the source code for method [LightDatabaseFakeDataMakerService::error](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/Service/LightDatabaseFakeDataMakerService.php#L278-L281)
 
 
 See Also
@@ -62,5 +62,5 @@ See Also
 
 The [LightDatabaseFakeDataMakerService](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService.md) class.
 
-Previous method: [generate](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/generate.md)<br>
+Previous method: [getFunctionFullTable](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/getFunctionFullTable.md)<br>
 

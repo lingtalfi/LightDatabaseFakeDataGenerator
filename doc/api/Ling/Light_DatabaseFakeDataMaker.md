@@ -28,5 +28,6 @@ Dependencies
 - [Light](https://github.com/lingtalfi/Light)
 - [Light_Database](https://github.com/lingtalfi/Light_Database)
 - [Light_SqlWizard](https://github.com/lingtalfi/Light_SqlWizard)
+- [SqlWizard](https://github.com/lingtalfi/SqlWizard)
 
 

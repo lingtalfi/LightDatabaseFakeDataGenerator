@@ -34,6 +34,7 @@ class <span class="pl-k">LightDatabaseFakeDataMakerService</span>  {
     - public [setOptions](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/setOptions.md)(array $options) : void
     - public [getOption](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/getOption.md)(string $key, ?$default = null, ?bool $throwEx = false) : void
     - public [generate](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/generate.md)(string $fullTable, int $nbRows, [Ling\Light_DatabaseFakeDataMaker\Generator\LightDatabaseFakeDataGeneratorInterface](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Generator/LightDatabaseFakeDataGeneratorInterface.md) $generator, ?array $options = []) : array
+    - private [getFunctionFullTable](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/getFunctionFullTable.md)(string $fullTable, string $defaultDatabase) : string
     - private [error](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/error.md)(string $msg) : void
 
 }
@@ -72,6 +73,7 @@ Methods
 - [LightDatabaseFakeDataMakerService::setOptions](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/setOptions.md) &ndash; Sets the options.
 - [LightDatabaseFakeDataMakerService::getOption](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/getOption.md) &ndash; Returns the option value corresponding to the given key.
 - [LightDatabaseFakeDataMakerService::generate](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/generate.md) &ndash; Generate $nbRows rows into the given table, using the given generator, and returns an array of inserted data.
+- [LightDatabaseFakeDataMakerService::getFunctionFullTable](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/getFunctionFullTable.md) &ndash; Returns the real fullTable from the given function fulltable.
 - [LightDatabaseFakeDataMakerService::error](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker/blob/master/doc/api/Ling/Light_DatabaseFakeDataMaker/Service/LightDatabaseFakeDataMakerService/error.md) &ndash; Throws an exception.
 
 

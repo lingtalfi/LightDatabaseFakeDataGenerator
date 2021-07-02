@@ -3,6 +3,7 @@ dependencies:
         - Light
         - Light_Database
         - Light_SqlWizard
+        - SqlWizard
     
 
 post_install: 

@@ -74,6 +74,10 @@ database_fake_data_maker_vars:
 History Log
 =============
 
+- 1.0.1 -- 2021-07-02
+
+    - add special strings: _select and _between
+  
 - 1.0.0 -- 2021-07-02
 
     - initial commit
