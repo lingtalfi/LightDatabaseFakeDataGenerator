@@ -1,6 +1,6 @@
 Light_DatabaseFakeDataMaker
 ===========
-2021-07-02
+2021-07-02 -> 2021-07-30
 
 
 
@@ -74,7 +74,7 @@ database_fake_data_maker_vars:
 History Log
 =============
 
-- 1.0.1 -- 2021-07-02
+- 1.0.1 -- 2021-07-30
 
     - add special strings: _select and _between
   
