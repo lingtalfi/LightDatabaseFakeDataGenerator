@@ -14,3 +14,9 @@
     - Ling:Light_Database:1.14.30
     - Ling:Light_SqlWizard:1.0.0
     - Ling:SqlWizard:1.13.21
+
+1.0.3: 
+    - Ling:Light:0.70.13
+    - Ling:Light_Database:1.14.30
+    - Ling:Light_SqlWizard:1.0.0
+    - Ling:SqlWizard:1.13.21

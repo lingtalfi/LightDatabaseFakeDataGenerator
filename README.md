@@ -74,6 +74,10 @@ database_fake_data_maker_vars:
 History Log
 =============
 
+- 1.0.3 -- 2021-07-30
+
+    - test commit 2
+
 - 1.0.2 -- 2021-07-30
 
     - test commit
